@@ -77,6 +77,15 @@
           "type": "NUMBER"
         }
       ]
+    },
+    {
+      "intent": "StartMovieIntent",
+      "slots": [
+        {
+          "name": "movieName",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
     }
   ]
 }

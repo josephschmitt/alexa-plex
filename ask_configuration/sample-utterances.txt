@@ -35,3 +35,9 @@ StartSpecificEpisodeIntent Play episode {one|episodeNumber} of {showName}
 StartSpecificEpisodeIntent Play episode {two|episodeNumber} of {showName}
 StartSpecificEpisodeIntent Play episode {three|episodeNumber} of {showName}
 StartSpecificEpisodeIntent Play episode {four|episodeNumber} of {showName}
+StartMovieIntent Play movie {The Godfather|movieName}
+StartMovieIntent Play movie {Star Wars|movieName}
+StartMovieIntent Play movie {Star Wars Episode Four A New Hope|movieName}
+StartMovieIntent Play movie {The Avengers|movieName}
+StartMovieIntent Play movie {The Dark Knight|movieName}
+StartMovieIntent Play movie {Live or Let Die|movieName}
